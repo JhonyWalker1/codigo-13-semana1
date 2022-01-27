@@ -39,3 +39,11 @@ git push origin main
 solucion a error "refusing to merge unrelated histories"
 ````
 -git pull origin master --allow-unrelated-histories
+
+````
+clonar repositorio
+````
+-git clone url_de_github.com
+
+-Te permite crear por default una carpeta con el nombre del repositorio
+
