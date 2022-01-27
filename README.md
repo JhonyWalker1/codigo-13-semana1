@@ -65,5 +65,17 @@ git checkout  nombre_del_branch
 
 -:eye: Si el checkout no tiene el -b solamente es para moverse
 
+````
+git fetch
+````
+
+-Actualiza cambios en la rama pero referente a nuevas ramas cradas
+
+````
+git branch -d nombre_branch
+````
+
+-Esto elimina una branch de manera local
+
 
 
