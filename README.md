@@ -77,5 +77,11 @@ git branch -d nombre_branch
 
 -Esto elimina una branch de manera local
 
+````
+git merge origin main
+````
+
+hacer el cambio en main desde otro branch previamente hecho
+
 
 
