@@ -78,7 +78,7 @@ git branch -d nombre_branch
 -Esto elimina una branch de manera local
 
 ````
-git merge origin main
+git merge nombre_de_branch_con_la_que_quieres_unir // git merge develop-jhonatan_aliaga
 ````
 
 hacer el cambio en main desde otro branch previamente hecho
