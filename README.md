@@ -34,3 +34,8 @@ git commit -m "comentario"
 git push origin main
 ````
 -Sirve para poder subir los cambios a nuestro repositorio en la nube, en esta caso GITHUB
+
+````
+solucion a error "refusing to merge unrelated histories"
+````
+-git pull origin master --allow-unrelated-histories
